@@ -5,7 +5,7 @@ C.
 
 ## Approach
 
-![picture](picture.jpg)
+![result](result.jpg)
 
 
 
@@ -55,5 +55,5 @@ plt.imshow(augmented_image.permute(1, 2, 0))
 plt.show()
 ```
 
-The processed image here will be saved in 'train_result'
+The processed image here will be saved in 'result'picture
 
