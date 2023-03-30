@@ -5,7 +5,7 @@ C.
 
 ## Approach
 
-![Data augmentation](picture.jpg)
+![picture](picture.jpg)
 
 
 
