@@ -10,7 +10,7 @@
 
 ## Approach
 
-![train_Data Set result](train_Data Set result.jpg)
+![result](train_Data Set result.jpg)
 
 
 
@@ -27,7 +27,7 @@ $ pip install git+https://github.com/openai/CLIP.git
 
 ## More Examples
 
-### Single image data expansion
+### training augmention
 
 
 
