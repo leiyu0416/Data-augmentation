@@ -10,7 +10,7 @@
 
 ## Approach
 
-![result](train_Data Set result.jpg)
+![image](https://github.com/leiyu0416/Data-augmentation/blob/main/train_Data%20Set%20result.jpg)
 
 
 
