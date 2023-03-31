@@ -7,6 +7,9 @@
 
 随机色度变换指在一定程度上改变输入的图像的颜色。常见的色度变换包括改变图像的亮度、饱和度和对比度等。在随机色度变换中，每个变换的参数都被随机生成。使模型能够学习到具有光照复杂性的特征，从而提高模型的泛化能力。随机色度变换可以解决光照复杂性的视觉问题。
 
+此外，training augmention.py是指训练集数据增广代码，val augmention.py是指验证集数据增广代码,Single image transformation.py是指单个图像数据增广的代码，
+ result.jpg是Single image transformation.py生成的结果，train_Data Set result.jpg是training augmention.py生成的结果，但是因为保存图片的文件夹比较大，上传不上来，此处都是截图显示。
+
 ## Results picture
 ![image](https://github.com/leiyu0416/Data-augmentation/blob/main/train_Data%20Set%20result.jpg)
 
@@ -55,5 +58,5 @@ for image_filename in image_filenames:
     augmented_image.save(output_path)
 ```
 
-The processed image here will be saved in 'train_Data Set result'picture。因为保存图片的文件夹比较大，上传不上来，此处都是截图显示。
+The processed image here will be saved in 'train_Data Set result'picture。
 
